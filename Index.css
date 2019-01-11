@@ -31,60 +31,60 @@
 .flex2{
   display: flex;
 }
-@media screen and (min-width: 1148px) {
+@media screen and (min-width: 900px) {
   #name-label {
    margin-right: 2em; 
    margin-left: auto;
   }
 }
-@media screen and (min-width: 1148px) {
+@media screen and (min-width: 900px) {
   #email-label {
    margin-right: 2em; 
    margin-left: auto; 
   }
 }
-@media screen and (min-width: 1148px) {
+@media screen and (min-width: 900px) {
   #number-label {
    margin-right: 2em; 
    margin-left: auto;
   }
 }
-@media screen and (min-width: 1148px) {
+@media screen and (min-width: 900px) {
   #dropdown-label {
    margin-right: 2em; 
    margin-left: auto;
   }
 }
-@media screen and (min-width: 1148px) {
+@media screen and (min-width: 900px) {
   #radio-label { 
    margin-left: 1em;
    margin-top: 1em; 
   }
 }
-@media screen and (min-width: 1148px) {
+@media screen and (min-width: 900px) {
   #new-label { 
    margin-left: 1em;
    margin-top: 1em; 
   }
 }
-@media screen and (min-width: 1148px) {
+@media screen and (min-width: 900px) {
   #recommend-label { 
    margin-left: 1em;
    margin-top: 1em; 
   }
 }
-@media screen and (min-width: 1148px) {
+@media screen and (min-width: 900px) {
   #check-label { 
    margin-left: 1em;
    margin-top: 1em; 
   }
 }
-@media screen and (min-width: 1148px) {
+@media screen and (min-width: 900px) {
   #best-label { 
    margin-left: 1em;
   }
 }
-@media screen and (min-width: 1148px) {
+@media screen and (min-width: 900px) {
   #change-label { 
    margin-left: 1em; 
   }
