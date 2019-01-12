@@ -156,6 +156,8 @@ p{
 }
 #description{
   margin-top: 0;
+  font-size: 1.2em;
+  margin-bottom: 1.5em;
 }
 #change{
   height: 80px;
@@ -186,5 +188,7 @@ p{
 }
 #opinions{
   margin-top: 2.5em;
+  font-size: 1.2em;
+  margin-bottom: 1.5;
 }
 
